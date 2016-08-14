@@ -1,6 +1,6 @@
 # My Favorites List
 
-### Wordpress
+## Wordpress
 
-[Blank Theme](http://html5blank.com)
-[Translate a Wordpress theme](http://quick-tutoriel.com/traduire-facilement-theme-wordpress-poedit/)
+- [Blank Theme](http://html5blank.com)
+- [Translate a Wordpress theme](http://quick-tutoriel.com/traduire-facilement-theme-wordpress-poedit/)
