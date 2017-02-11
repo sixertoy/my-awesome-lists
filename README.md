@@ -6,6 +6,10 @@
 <a name="javascript"></a>
 ## Javascript
 
+### Website
+- [JS Tips](http://www.jstips.co)
+
+### Libraries
 - [ACE Code Editor](ace.c9.io)
 
 <a name="wordpress"></a>
