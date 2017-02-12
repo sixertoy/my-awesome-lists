@@ -2,11 +2,16 @@
 
 - [CSS](#css)
 - [Javascript](#javascript)
+- [Mis](#misc)
 - [Wordpress](#wordpress)
 
 <a name="css"></a>
 ## CSS
 
+### Tools
+- [Online Autoprefixer](https://autoprefixer.github.io)
+
+### Documentation
 - [30 sélecteurs CSS](https://code.tutsplus.com/fr/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 <a name="javascript"></a>
@@ -17,6 +22,10 @@
 
 ### Libraries
 - [ACE Code Editor](ace.c9.io)
+
+## Misc
+- [Github Octocat Corner](http://tholman.com/github-corners/)
+- [Github forkme Ribbons](https://github.com/blog/273-github-ribbons)
 
 <a name="wordpress"></a>
 ## Wordpress
