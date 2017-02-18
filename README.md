@@ -32,7 +32,7 @@
 
 ### Forms
 - [React ACE Editor](https://github.com/securingsincity/react-ace)
-- [Select](https://github.com/securingsincity/react-ace)
+- [Select](https://github.com/JedWatson/react-select)
 
 <a name="wordpress"></a>
 ## Wordpress
