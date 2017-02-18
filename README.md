@@ -22,7 +22,7 @@
 - [JS Tips](http://www.jstips.co)
 
 ### Libraries
-- [ACE Code Editor](ace.c9.io)
+- [ACE Code Editor](https://ace.c9.io) | [Themes](https://ace.c9.io/build/kitchen-sink.html)
 
 ## Misc
 - [Github Octocat Corner](http://tholman.com/github-corners/)
@@ -31,6 +31,7 @@
 ## React
 
 ### Forms
+- [React ACE Editor](https://github.com/securingsincity/react-ace)
 - [Select](https://github.com/securingsincity/react-ace)
 
 <a name="wordpress"></a>
