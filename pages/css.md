@@ -1,5 +1,8 @@
 # Favorites CSS
 
+## SASS
+- [SASS Colors Helpers Guide](http://jackiebalzer.com/color)
+
 ## Tools
 - [Online Autoprefixer](https://autoprefixer.github.io)
 
