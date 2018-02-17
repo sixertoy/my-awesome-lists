@@ -1,7 +1,6 @@
 # My Favorites List
 
-- [CSS](./pages/css.md)
-- [JAVASCRIPT](./pages/javascript.md)
-
-- [REACT](./javascript.md)
-- [WORDPRESS](./pages/wordpress.md)
+- [CSS](./css.md)
+- [JAVASCRIPT](./javascript.md)
+- [REACT](./react.md)
+- [WORDPRESS](./wordpress.md)

@@ -2,12 +2,12 @@
 
 - [Wordpress](https://fr.wordpress.org)
 
-### Themes
+## Themes
 - [Blank Slate Theme](https://wordpress.org/themes/blankslate/)
 - [HTML5 Blank Theme](http://html5blank.com)
 - [Translate a Wordpress theme](http://quick-tutoriel.com/traduire-facilement-theme-wordpress-poedit/)
 
-### Plugins
+## Plugins
 - [Default Featured Image](https://wordpress.org/plugins/default-featured-image/)
 - [Polylang](https://fr.wordpress.org/plugins/polylang/)
 - [Polylang Slug](https://github.com/grappler/polylang-slug)
