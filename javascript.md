@@ -13,6 +13,7 @@
 ## Tools
 
 - [Generate HTTP codes](https://httpstat.us)
+- [CORS Anywhere - Reverse Proxy](https://github.com/Rob--W/cors-anywhere)
 
 ## Misc
 
