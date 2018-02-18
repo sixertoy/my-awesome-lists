@@ -7,10 +7,12 @@
 ## Tools
 
 - [Animation Functions](http://easings.net/fr)
+- [Adobe Color CC](https://color.adobe.com/fr/create/color-wheel)
 - [CAN I USE](https://caniuse.com)
 - [Color Palettes](http://www.color-hex.com/color-palettes/)
 - [Fontello](http://fontello.com)
 - [Online Autoprefixer](https://autoprefixer.github.io)
+- [SVG Cleaner](https://jakearchibald.github.io/svgomg/)
 
 ## SASS
 
