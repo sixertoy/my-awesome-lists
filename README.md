@@ -19,4 +19,4 @@
 - :rocket: `:rocket` New Version
 - :tada: `:tada:` New Version
 
-[Complete List](https://gist.github.com/rxaviers/7360908)
+[Full List](https://gist.github.com/rxaviers/7360908)
