@@ -5,6 +5,10 @@
 - [REACT](./react.md)
 - [WORDPRESS](./wordpress.md)
 
+#### Others
+
+- [Silex/Symfony](https://silex.symfony.com)
+
 ## Comments eMoji 
 
 - :beetle: `:beetle:` CSS's Bug/Fix
