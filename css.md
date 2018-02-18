@@ -5,7 +5,7 @@
 
 ## Tools
 - [CAN I USE](https://caniuse.com)
-- [Easing Functions](http://easings.net/fr)
+- [Animation Functions](http://easings.net/fr)
 - [Online Autoprefixer](https://autoprefixer.github.io)
 
 ## SASS
