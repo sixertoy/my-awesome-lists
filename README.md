@@ -4,10 +4,12 @@
 - [JAVASCRIPT](./javascript.md)
 - [REACT](./react.md)
 - [WORDPRESS](./wordpress.md)
-- [NODE.JS](./wordpress.md)
+- [NODE.JS](./nodejs.md)
 
 #### Others
 
+- [Travis CI](https://travis-ci.org)
+- [Coveralls](https://coveralls.io)
 - [Silex/Symfony](https://silex.symfony.com)
 
 ## Comments eMoji 
@@ -24,4 +26,4 @@
 - :rocket: `:rocket` New Version
 - :tada: `:tada:` New Version
 
-[Full List](https://gist.github.com/rxaviers/7360908)
+[Emoji Full List](https://gist.github.com/rxaviers/7360908)
