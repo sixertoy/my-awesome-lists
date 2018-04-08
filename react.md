@@ -16,7 +16,11 @@
 - [React Custom Scrollbars](https://github.com/malte-wessel/react-custom-scrollbars)
 
 ## Forms
+- [React Final Forms](https://github.com/final-form/react-final-form)
 - [React Color Picker](https://casesandberg.github.io/react-color/)
 - [React Select](https://github.com/JedWatson/react-select)
 - [React Radio Group](https://github.com/chenglou/react-radio-group)
 - [React ACE Editor](https://github.com/securingsincity/react-ace)
+
+## Redux
+- [Redux Form](https://github.com/erikras/redux-form)
