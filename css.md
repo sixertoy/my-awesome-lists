@@ -6,6 +6,11 @@
 - [HTML5 Features](http://html5please.com)
 - [HTML5 Browser Test](http://html5test.com)
 
+## Generators
+
+- [Bubble Speech Generators](https://leaverou.github.io/bubbly/)
+- [CSS3 Generators](http://css3generator.com)
+
 ## Tools
 
 - [Animation Functions](http://easings.net/fr)
@@ -13,7 +18,6 @@
 - [CAN I USE](https://caniuse.com)
 - [Color Palettes](http://www.color-hex.com/color-palettes/)
 - [CSS Minifier](https://cssminifier.com)
-- [CSS3 Generators](http://css3generator.com)
 - [Fontello](http://fontello.com)
 - [Online Autoprefixer](https://autoprefixer.github.io)
 - [SVG Cleaner](https://jakearchibald.github.io/svgomg/)
