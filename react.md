@@ -6,6 +6,7 @@
 - [React Copy To Clipboard](https://github.com/nkbt/react-copy-to-clipboard)
 - [React Custom Scrollbars](https://github.com/malte-wessel/react-custom-scrollbars)
 - [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) A Wysiwyg editor build on top of ReactJS and DraftJS
+- [React Markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components
 
 ## Forms
 - [React Final Forms](https://github.com/final-form/react-final-form)
