@@ -17,7 +17,7 @@
 ## Libraries
 
 - [React Router](https://github.com/ReactTraining/react-router)
-- [react-sizes](https://github.com/renatorib/react-sizes) Hoc to easily map window sizes to props
+- [React Sizes](https://github.com/renatorib/react-sizes) Hoc to easily map window sizes to props
 
 ## Redux
 
