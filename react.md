@@ -19,7 +19,7 @@
 
 - [React Router](https://github.com/ReactTraining/react-router)
 - [React Sizes](https://github.com/renatorib/react-sizes) Hoc to easily map window sizes to props
-- [React Leaflet](https://react-leaflet.js.org/docs/en/intro.html) | <small>[sandbox](https://codesandbox.io/s/10909wzv3j)</small>
+- [React Leaflet](https://react-leaflet.js.org/docs/en/intro.html) | [sandbox](https://codesandbox.io/s/10909wzv3j)
 
 ## Redux
 
