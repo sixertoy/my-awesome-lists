@@ -10,6 +10,7 @@
 
 - [Turf](http://turfjs.org/docs) Advanced geospatial manipulation
 - [ACE Code Editor](https://ace.c9.io) | [Themes](https://ace.c9.io/build/kitchen-sink.html)
+- [Sharp](http://sharp.pixelplumbing.com/en/stable/) Image manipulations
 
 ## Tools
 
