@@ -1,6 +1,7 @@
-# My Favorites List
 
 [Code Sandbox Playground](https://codesandbox.io/u/sixertoy/sandboxes)
+
+### My Favorites List
 
 - [CSS](./css.md)
 - [JAVASCRIPT](./javascript.md)
@@ -8,13 +9,13 @@
 - [WORDPRESS](./wordpress.md)
 - [NODE.JS](./nodejs.md)
 
-#### Others
+### Others
 
 - [Travis CI](https://travis-ci.org)
 - [Coveralls](https://coveralls.io)
 - [Silex/Symfony](https://silex.symfony.com)
 
-## Comments eMoji 
+### Favorites eMoji 
 
 - :beetle: `:beetle:` CSS's Bug/Fix
 - :boom: `:boom` Bug/Break Changes
