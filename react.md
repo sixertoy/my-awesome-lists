@@ -29,4 +29,4 @@
 - [Reselect](https://github.com/reactjs/reselect)
 - [Re Reselect](https://github.com/toomuchdesign/re-reselect)
 - [React Redux](https://github.com/reactjs/react-redux)
-- [Redux Form](https://github.com/erikras/redux-form)
+- ~[Redux Form](https://github.com/erikras/redux-form)~ Prefer [React Final Forms](https://github.com/final-form/react-final-form)
