@@ -3,6 +3,8 @@
 
 [GIT Tips](https://github.com/git-tips/tips)
 
+[You Don't (May Not) Need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+
 ### My Favorites List
 
 - [CSS](./css.md)
