@@ -11,6 +11,7 @@
 - [React Custom Scrollbars](https://github.com/malte-wessel/react-custom-scrollbars)
 - [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) A Wysiwyg editor build on top of ReactJS and DraftJS
 - [React Markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components
+- [TippyJS](https://github.com/atomiks/tippy.js-react) Tooltips
 
 ## Forms
 - [React Final Forms](https://github.com/final-form/react-final-form)
@@ -24,7 +25,7 @@
 - [React Router](https://github.com/ReactTraining/react-router)
 - [React Sizes](https://github.com/renatorib/react-sizes) Hoc to easily map window sizes to props
 - [React Leaflet](https://react-leaflet.js.org/docs/en/intro.html) | [sandbox](https://codesandbox.io/s/10909wzv3j)
-- [React-JSS](https://cssinjs.org/react-jss/?v=v10.0.0-alpha.24)
+- [React-JSS](https://cssinjs.org/react-jss/?v=v10.0.0-alpha.24) CSS in JS
 
 ## Redux
 
