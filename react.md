@@ -2,6 +2,7 @@
 
 ## Documentation
 
+- [Docsify](https://docsify.js.org)
 - [Storybook](https://storybook.js.org)
 
 ## UI
@@ -12,9 +13,10 @@
 - [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) A Wysiwyg editor build on top of ReactJS and DraftJS
 - [React Markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components
 - [TippyJS](https://github.com/atomiks/tippy.js-react) Tooltips
+- [React Toastify](https://fkhadra.github.io/react-toastify/) Toast messages
 
 ## Forms
-- [React Final Forms](https://github.com/final-form/react-final-form)
+- [React Final Form](https://github.com/final-form/react-final-form)
 - [React Color Picker](https://casesandberg.github.io/react-color/)
 - [React Select](https://github.com/JedWatson/react-select)
 - [React Radio Group](https://github.com/chenglou/react-radio-group)
@@ -22,17 +24,16 @@
 
 ## Libraries
 
-- [React Router](https://github.com/ReactTraining/react-router)
+- [React Router](https://github.com/ReactTraining/react-router) Routing
 - [React Sizes](https://github.com/renatorib/react-sizes) Hoc to easily map window sizes to props
 - [React Leaflet](https://react-leaflet.js.org/docs/en/intro.html) | [sandbox](https://codesandbox.io/s/10909wzv3j)
 - [React-JSS](https://cssinjs.org/react-jss/?v=v10.0.0-alpha.24) CSS in JS
 
 ## Redux
 
-- [Redux Persist](https://github.com/rt2zz/redux-persist)
+- [Redux Persist](https://github.com/rt2zz/redux-persist) Persist date to LocalStorage or more
 - [Redux Thunk](https://github.com/gaearon/redux-thunk)
 - [Recompose](https://github.com/acdlite/recompose)
-- [Reselect](https://github.com/reactjs/reselect)
-- [Re Reselect](https://github.com/toomuchdesign/re-reselect)
-- [React Redux](https://github.com/reactjs/react-redux)
-- ~[Redux Form](https://github.com/erikras/redux-form)~ prefer [React Final Forms](https://github.com/final-form/react-final-form)
+- [Reselect](https://github.com/reactjs/reselect) State selector
+- [Re-reselect](https://github.com/toomuchdesign/re-reselect) Memoized selector
+- [React Redux](https://github.com/reactjs/react-redux) ...
