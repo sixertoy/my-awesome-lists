@@ -12,7 +12,8 @@
 - [React Custom Scrollbars](https://github.com/malte-wessel/react-custom-scrollbars)
 - [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) A Wysiwyg editor build on top of ReactJS and DraftJS
 - [React Markdown](https://github.com/rexxars/react-markdown) Render Markdown as React components
-- [TippyJS](https://github.com/atomiks/tippy.js-react) Tooltips
+- [React Tooltip](https://react-tooltip.netlify.com) Tooltips as simple as it should be
+- [TippyJS](https://github.com/atomiks/tippy.js-react) Tooltips with effects
 - [React Toastify](https://fkhadra.github.io/react-toastify/) Toast messages
 
 ## Forms
