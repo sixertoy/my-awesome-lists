@@ -1,7 +1,4 @@
-
-- [Code Sandbox Playground](https://codesandbox.io/u/sixertoy/sandboxes)
-- [MockAPI](www.mockapi.io)
-- [GIT Tips](https://github.com/git-tips/tips)
+# My Awesome Lists
 
 ### My Favorites List
 
@@ -13,8 +10,12 @@
 
 ### Others
 
+- [Code Sandbox Playground](https://codesandbox.io/u/sixertoy/sandboxes)
+- [MockAPI](www.mockapi.io)
+- [GIT Tips](https://github.com/git-tips/tips)
 - [Travis CI](https://travis-ci.org)
 - [Coveralls](https://coveralls.io)
+- [Netlify](https://www.netlify.com/)
 - [Silex/Symfony](https://silex.symfony.com)
 
 ### Favorites eMoji 
