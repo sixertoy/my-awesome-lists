@@ -15,6 +15,7 @@
 - [React Tooltip](https://react-tooltip.netlify.com) Tooltips as simple as it should be
 - [TippyJS](https://github.com/atomiks/tippy.js-react) Tooltips with effects
 - [React Toastify](https://fkhadra.github.io/react-toastify/) Toast messages
+- [React Modal](https://github.com/reactjs/react-modal) Simple Modals
 
 ## Forms
 - [React Final Form](https://github.com/final-form/react-final-form)
